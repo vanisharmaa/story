@@ -1,1 +1,15 @@
+<<<<<<< HEAD
 it was the spring of hope, it was the winter of despair.
+=======
+it was the spring of earth, it was the winter of space.
+>>>>>>> alien-plot
+
+
+
+
+
+
+
+
+
+
